@@ -1,0 +1,3 @@
+Hello Python
+I am Anaconda
+I am writing in append mode
